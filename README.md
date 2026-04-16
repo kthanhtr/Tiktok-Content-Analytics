@@ -2,6 +2,7 @@
 
 # 📌 Project Description
 This project performs an end-to-end Exploratory Data Analysis (EDA) on 19,000+ TikTok videos to investigate behavioral and engagement differences between claim-based and opinion-based content. By analyzing metrics such as views, likes, shares, comments, and author ban status, the project surfaces patterns relevant to content moderation, trust & safety strategy, and platform analytics.
+
 The analysis is paired with an interactive Tableau dashboard for stakeholder-ready visual storytelling: https://public.tableau.com/views/TikTokDashboard_17732850806220/TiktokDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link 
 
 # 🧩 Problem Statement
